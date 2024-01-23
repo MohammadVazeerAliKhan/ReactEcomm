@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Ecommerce website built using React js library, Redux toolkit for state management, firestore for saving data(performing CRUD operations)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features of website
+
+Add a new Product,
+Edit an existing product, Deleting the product,
+Adding product to the cart
+
+## Screens
+
+Home Screen with Navigation Bar and list of products which facilitates editing or deleting a product.
+Product Details Screen with detailed description of each product along with edit product option and add to cart option.
+Add Product Screen with a form to fill in details of a product to save it to collection of products.
+Cart Screen with current cart Items and checkout details with total pricing details of cart items present.(Remove from cart feature is added)
+
+React toastify is used to show notifications upon performing CRUD operations.
+
+## Getting Started with Create React App
 
 ## Available Scripts
 
